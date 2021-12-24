@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/beranda" />
+        <item
+            android:id="@+id/nav_reminder"
+            android:icon="@drawable/ic_timer"
+            android:title="@string/pengingat" />
+        <item
+            android:id="@+id/nav_setProfile"
+            android:icon="@drawable/ic_person"
+            android:title="@string/pengaturan_profil" />
+    </group>
+
+    <item android:title="@string/komunikasi">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_email"
+                android:title="@string/kontak_kami">
+
+            </item>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973694497535",
+    "firebase_url": "https://workoutdailyplanner-default-rtdb.firebaseio.com",
+    "project_id": "workoutdailyplanner",
+    "storage_bucket": "workoutdailyplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973694497535:android:c3ec057cf2c9e6e59752ca",
+        "android_client_info": {
+          "package_name": "com.tubes.workoutdailyplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973694497535-imd5q5dpdf4tcchs57j4i7kunv9qt269.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlbpT2MstgjYStLW-HF0CXLAnWj5Jzbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973694497535-imd5q5dpdf4tcchs57j4i7kunv9qt269.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
